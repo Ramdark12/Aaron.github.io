@@ -28,7 +28,7 @@ The development process required balancing multiple engineering constraints, inc
 
 ## Problem & Design Approach
 
-{% include youtube-video.html id="LgniEjI9cCM?si=PS_pB6xdvnE7ohT6" autoplay="false" %}
+{% include youtube-video.html id="LgniEjI9cCM" autoplay="false" %}
 
 The primary engineering challenge was achieving a consistent shooting trajectory while maintaining a fast and reliable intake and indexing system.
 
