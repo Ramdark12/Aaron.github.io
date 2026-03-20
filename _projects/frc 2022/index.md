@@ -17,6 +17,8 @@ skills:
 
 main-image: 
 ---
+
+---
 ## Overview
 
 This project was developed as part of the FIRST Robotics Competition (FRC) 2022 challenge, Rapid React.  
