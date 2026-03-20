@@ -15,7 +15,7 @@ skills:
   - Problem Solving
   - Design Iteration
 
-main-image: 
+main-image: _projects/frc 2022/Frc_202_Main.jpeg
 ---
 
 ---
