@@ -7,7 +7,7 @@
 
 # Main Page Setup
 
-title: Aaron Reyes Mendoza's Portfolio # This is what shows up in the tab of the browser
+title: Aaron Reyes's Portfolio # This is what shows up in the tab of the browser
 
 
 
@@ -47,44 +47,55 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D Modeling
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
+      - Onshape
+      - SolidWorks (CSWA)
+      - Siemens NX
+      - Solid Edge
+      - Parametric modeling
+      - Assembly design
+      - Design tables & configurations
+
+  - category: Prototyping & Manufacturing
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
+      - CNC machining (basic understanding)
+      - FDM 3D printing
+      - Laser cutting
+      - Mechanical assembly and testing
+      - Arduino
+      - Breadboarding for circuit testing
+
+  - category: Engineering Standards / Documentation
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
+      - GD&T ASME Y14 (basic/intermediate)
+      - Technical drawings
+      - Bill of Materials (BOM)
+      - Version control & design documentation
+
+  - category: Simulation & Analysis
     tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
+      - SolidWorks Simulation (basic)
+      - Mass properties analysis
+      - Center of gravity evaluation
+      - Topology optimization
+
+  - category: Mechanical Design
     tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
+      - Mechanism design (drivetrains, gearboxes, linkages)
+      - Design for Manufacturability (DFM)
+      - Design for Assembly (DFA)
+      - Material selection
+
+  - category: Collaboration & Engineering Process
+    tools:
+      - Engineering design reviews
+      - Cross-functional teamwork
+      - Iterative design process
+      - Problem-solving in real-world systems
+
+  - category: Programming & Automation (complementary)
+    tools:
+      - PLC (Siemens - basic)
+      - Arduino
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
