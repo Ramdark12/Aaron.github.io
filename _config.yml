@@ -33,7 +33,7 @@ resume-url: assets/resume/CV_Aaron_Reyes_Mendoza_1_(1).pdf # or /assets/resume/r
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: aar%C3%B3n-rams%C3%A9s-reyes-6719ab32b?trk=contact-info  #https://www.linkedin.com/in/aar%C3%B3n-rams%C3%A9s-reyes-6719ab32b?trk=contact-info
+  linkedin: aar%C3%B3n-rams%C3%A9s-reyes-6719ab32b?trk=contact-info # https://www.linkedin.com/in/{your url slug}
   github:    # https://github.com/{your url slug} 
   stackoverflow:     # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
@@ -113,7 +113,6 @@ colors: # this is the basic theme
   highlight: "#0c0cf2"
   background: "#ffffff"
   light_background: "#f3f5fb"
-
 # A few examples. 
 basic theme:
   text: "#1a1c20"
