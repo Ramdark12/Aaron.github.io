@@ -40,7 +40,7 @@ external-links:    # input only your own url slug. The icons with missing entrie
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
   instragram:       # https://instagram.com/{your url slug} 
-  youtube: @ramdark911 # https://www.youtube.com/@ramdark911
+  youtube: ramdark911 #https://youtube.com/@{your url slug} 
   discord:            # https://discord.com/users/{your url slug} 
   bluesky:           # https://bsky.app/profile/{your url slug} 
   
@@ -113,6 +113,7 @@ colors: # this is the basic theme
   highlight: "#0c0cf2"
   background: "#ffffff"
   light_background: "#f3f5fb"
+
 # A few examples. 
 basic theme:
   text: "#1a1c20"
